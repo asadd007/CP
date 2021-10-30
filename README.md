@@ -1,2 +1,2 @@
-# CP
+# CP (Mostly Codeforces)
 coding solutions
